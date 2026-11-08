@@ -1,0 +1,15 @@
+# Activity 1 – Development Environment Setup
+
+I installed Visual Studio Code on my Windows laptop.
+
+I installed the Microsoft C/C++ extension in VS Code.
+
+I installed MinGW-w64 GCC using the MSYS2 distribution.
+
+I added the GCC bin folder to the Windows PATH environment variable.
+
+I verified the installation using gcc --version and g++ --version.
+
+I created hello.c, compiled it using GCC and successfully executed the program.
+
+The terminal displayed "Hello, World!" successfully.
