@@ -3,3 +3,5 @@
 My engineering coursework and activities
 
 Hello! My name is Spandana. I am studying Engineering. This repository contains my coursework, programming practice, projects, and learning activities. It showcases my technical skills and my progress in software development.
+
+Learning C programming and Java
